@@ -37,4 +37,4 @@ async def on_message(message):
         await message.channel.send(response)
 
 
-client.run('Nzk3NTAxNzgxNTYzMTQ2Mjcy.X_nZaQ.vUe3wMa4iKnZcaKmFW_qU0BdwGo')
+client.run('XXXXXXXXXXXXXXXX') #token is inputted here
